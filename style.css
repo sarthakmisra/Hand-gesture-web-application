@@ -1,0 +1,47 @@
+
+
+#heading {
+    font-size:18px;
+    border-radius:10px;
+    letter-spacing: 10px;
+}
+
+
+#heading span {
+    font-size: 30px;
+}
+#camera {
+    height:300px;
+    width:300px;
+    border: 2px solid black;
+    
+}
+#result {
+    height:300px;
+    width:300px;
+    border: 2px solid black;   
+}
+#inn {
+    border: solid green;
+    letter-spacing: 2px;
+}
+#emojis {
+background-color: blue;
+width: 350px;
+font-size: 40px;
+color: white;
+}
+.normals {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+label {
+    background-color: white;
+    color:purple;
+}
+#prediction_result {
+background-color: blue;
+width: 110px;
+font-size: 40px;
+color: white;
+}
